@@ -7,6 +7,9 @@ if (input is not missing value) then						-- if input not null, do
 	tell application "System Events"						-- call System Events
 		repeat with char in the characters of input			-- for character in input, do
 			keystroke char 									-- write character
+			delay 0.05
 		end repeat
 	end tell
 end if
+
+say "fertig"
