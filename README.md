@@ -2,9 +2,7 @@ Clipboard Paste.app
 ===============
 
 ### Beschreibung
-AppleScript, welches es ermöglicht, den Inhalt der zwischenablage in Felder einzufügen, welche kein copy&paste erlauben. Darunter fallen z.B. Dialogboxen für die Passwortabfrage von OSX.
-
-Siehe auch [den entsprechenden Eintrag in meinem Blog](http://unixundich.de).
+AppleScript, welches es ermöglicht, den Inhalt der zwischenablage in Felder einzufügen, welche kein copy&paste erlauben. Darunter fallen z.B. VNC-Konsolen.
 
 ### Kompilieren
 ```
